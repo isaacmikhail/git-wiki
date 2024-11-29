@@ -6,6 +6,8 @@ export const Container = styled.div`
     
     margin: 20px 0 0 0;
     display: flex;
-    justfy-content: center;
+    flex-direction: column;
+    align-Items: center;
+    justfy-content:center;
     alignItems: flex-start;
     `
